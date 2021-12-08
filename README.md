@@ -2,9 +2,9 @@
 
 
 - 👋 Me presento! Soy un graduado en Ingenieria Informatica con especialidad en Ingenieria del Software
-- 👀 Estoy interesado en Ingenieria del Software, FullStack  (Backend y/o Frontend) y Machine Learning
-- 🌱 Actualmente estoy trabajando con: Spring (Java), Angular (TypeScript/HTML/CSS), y Python.
-- 💞️ ¿Piensas que puedemos colaborar juntos? ¡No dudes en contactarme!
+- 👀 Estoy interesado en Ingeniería del Software / BackEnd y Data Science
+- 🌱 Actualmente estoy trabajando como Ingenierio del Software tomando un rol FullStack con Spring (Java) y Angular.
+- 💞️ En GitHub tengo planeado centrarme en proyectos relacionados con Python. ¡No dudes en contactarme para colaborar!
 - 📫 Puedes contactarme via [LINKEDIN](https://www.linkedin.com/in/adrian-ferrandis/) o enviandome un correo a adrian92539@gmail.com
 
 
