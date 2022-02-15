@@ -1,11 +1,11 @@
 [![MasterHead](https://github.com/ferrandisme/ferrandisme/blob/main/header.png)](https://github.com/ferrandisme/ferrandisme)
 
 
-- 👋 Me presento! Soy un graduado en Ingenieria Informatica con especialidad en Ingenieria del Software
-- 👀 Estoy interesado en Ingeniería del Software / FullStack
+- 👋 Me presento! Soy un graduado en Ingenieria Informatica con especialidad en Ingenieria del Software.
+- 👀 Estoy interesado en Ingeniería del Software / FullStack.
 - 🌱 Actualmente estoy trabajando como Ingenierio del Software tomando un rol FullStack con Spring (Java) y Angular (TypeScript).
-- 💞️ En GitHub puedes encontrar varios proyectos que he realizado. Podras ver desde mi TFG a un MVP que este empezando.
-- 📫 Puedes contactarme via [LINKEDIN](https://www.linkedin.com/in/adrian-ferrandis/) o enviandome un correo a adrian92539@gmail.com
+- 💞️ En GitHub puedes encontrar varios proyectos que he realizado. También podrás ver desde mi TFG.
+- 📫 Puedes contactarme via [LINKEDIN](https://www.linkedin.com/in/adrian-ferrandis/) o enviandome un correo a adrian@ferrandis.me.
 
 
 # Estadisticas
