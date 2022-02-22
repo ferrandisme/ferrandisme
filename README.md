@@ -10,9 +10,9 @@
 
 # Estadisticas
 
-[![Ferrandisme Stats](https://github-readme-stats.vercel.app/api?username=ferrandisme&hide=contribs,prs,contribs&count_private=true&locale=es&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/ferrandisme/github-readme-stats)
+[![Estadisticas](https://github-readme-stats.vercel.app/api?username=ferrandisme&hide=contribs,prs,contribs&count_private=true&locale=es&theme=radical&show_icons=true&include_all_commits=true)](https://github.com/ferrandisme/github-readme-stats)
 
-[![Top Lenguajes Promación](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrandisme&layout=compact&locale=es&theme=radical&include_all_commits=true)](https://github.com/ferrandisme/github-readme-stats)
+[![Top Lenguajes Programación](https://github-readme-stats.vercel.app/api/top-langs/?username=ferrandisme&layout=compact&locale=es&theme=radical&include_all_commits=true)](https://github.com/ferrandisme/github-readme-stats)
   
 
 
